@@ -1,0 +1,28 @@
+:root {
+  background: black;
+  --line-color: green;
+  --line-width: 1px;
+}
+button,
+input {
+  position: fixed;
+  top: 0;
+  left: 1rem;
+  width: 200px;
+  height: 40px;
+}
+#color {
+  width: 40px;
+}
+#speed {
+  top: 40px;
+}
+#setup {
+  top: 100px;
+  border: none;
+  background-color: rgb(63, 3, 147);
+  color: white;
+}
+#switch {
+  top: 160px;
+}
